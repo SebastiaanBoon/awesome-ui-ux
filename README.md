@@ -10,9 +10,9 @@
   <a href="#-contributing"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"/>
   <img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"/>
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/your-username/awesome-ui-ux?style=flat-square"/>
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/your-username/awesome-ui-ux?style=flat-square"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/your-username/awesome-ui-ux?style=flat-square"/>
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/sti7an/awesome-ui-ux?style=flat-square"/>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sti7an/awesome-ui-ux?style=flat-square"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/sti7an/awesome-ui-ux?style=flat-square"/>
 </p>
 
 <p>
